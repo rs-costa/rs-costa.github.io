@@ -29,7 +29,7 @@ activities and developed an interest in the Systems Bio-medicine field, with emp
 (e.g. machine learning algorithms) for (bio-)clinical data analysis. Within this topic, I established a national collaboration 
 with the Public Administration sector (IPO-Porto hospital).
 
-**Key-terms:** Systems Biology modeling; computational Systems Biomedicine; constraint-based and kinetic modeling; systems metabolic engineering; optimization; metabolism; data science.
+**Key-terms:** Systems Biology modeling; constraint-based and kinetic metabolic modeling; optimization; metabolism; computational Systems Biomedicine; Data Science; systems engineering; data-driven approaches; surgical risk prediction.
 
 ### Selected Publications
 
@@ -48,7 +48,7 @@ with the Public Administration sector (IPO-Porto hospital).
 ### Recent Research Projects
 
 •	[IPOscore](https://iposcore.wixsite.com/project/) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
-**If you are interested in doing a PhD or work with us on this project - just [email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**
+**If you are interested in doing your Master & PhD thesis or work with us on this project - just [Email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**.
 
 •	[TTRaFFIC](http://www.era-ib.net/6thjointcall/ttraffic) – Toxicity and TRansport For Fungal production of Industrial Compounds (ERA-IB-2-6/0003/2014), Role: Team member, PI: Nuno Mira. (ongoing)
 
