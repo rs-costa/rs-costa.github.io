@@ -1,3 +1,5 @@
+**(under construction...)**
+
 # R Costa
 
 [LAQV/Requimte](https://www.requimte.pt/laqv/), FCT-UNova
@@ -55,6 +57,13 @@ with the Public Administration sector (IPO-Porto hospital).
 •	[IPOscore](https://iposcore.wixsite.com/project/) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
 **If you are interested in doing a PhD or work with us on this project - just [email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**
 
+### Software
+
+**(coming soon...)**
+
+### Teaching Activities
+
+**(coming soon...)**
+
 ---
 
-**under construction...**
