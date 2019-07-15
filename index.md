@@ -11,6 +11,7 @@ and
 *email:* ![Image](prtsc.png)
 
 
+
 ### Research Interests
 In Metabolic Engineering, the task of identifying the modifications that will lead to microbial strains with high yields for 
 industrial production is a quite challenge one, requiring robust modelling approaches. Similarly to the biotech industry, 
@@ -57,13 +58,19 @@ with the Public Administration sector (IPO-Porto hospital).
 •	[IPOscore](https://iposcore.wixsite.com/project/) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
 **If you are interested in doing a PhD or work with us on this project - just [email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**
 
-### Software
+### Software & Tools
 
-**(coming soon...)**
+- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at www.kimosys.org 
+
+- ObjComparison. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at http://bit.ly/17QACEW 
+
+- SON-EM. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at http://bit.ly/1DaGaVS 
 
 ### Teaching Activities
 
 **(coming soon...)**
 
+
 ---
 
+  &copy; R Costa 2019
