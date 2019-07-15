@@ -47,24 +47,25 @@ with the Public Administration sector (IPO-Porto hospital).
 
 ### Recent Research Projects
 
-•	[PneumoSyS](http://bit.ly/18m5BZj) – A systems biology approach to the role of pneumococcal carbon metabolism in colonization and invasive disease (PTDC/SAU-MII/100964/2008), Role: Team member, PI: Ana Rute Neves.
-
-•	LEVITA – Towards microbial sustainable production of itaconic and levulinic acids (Twinning program of EraSynBio), Role: Team member, PI: Nuno Mira.
-
-•	[BacHBerry](http://www.bacberry.eu) – BACterial Hosts for production of Bioactive phenolics from bERRY fruits (FP7-KBBE.2013.3.1-01), Role: Team member, PI: Jochen Forster.
-
-•	[TTRaFFIC](http://www.era-ib.net/6thjointcall/ttraffic) – Toxicity and TRansport For Fungal production of Industrial Compounds (ERA-IB-2-6/0003/2014), Role: Team member, PI: Nuno Mira. (ongoing)
-
 •	[IPOscore](https://iposcore.wixsite.com/project/) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
 **If you are interested in doing a PhD or work with us on this project - just [email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**
 
+•	[TTRaFFIC](http://www.era-ib.net/6thjointcall/ttraffic) – Toxicity and TRansport For Fungal production of Industrial Compounds (ERA-IB-2-6/0003/2014), Role: Team member, PI: Nuno Mira. (ongoing)
+
+•	[BacHBerry](http://www.bacberry.eu) – BACterial Hosts for production of Bioactive phenolics from bERRY fruits (FP7-KBBE.2013.3.1-01), Role: Team member, PI: Jochen Forster.
+
+•	LEVITA – Towards microbial sustainable production of itaconic and levulinic acids (Twinning program of EraSynBio), Role: Team member, PI: Nuno Mira.
+
+•	[PneumoSyS](http://bit.ly/18m5BZj) – A systems biology approach to the role of pneumococcal carbon metabolism in colonization and invasive disease (PTDC/SAU-MII/100964/2008), Role: Team member, PI: Ana Rute Neves.
+
+
 ### Software & Tools
 
-- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at www.kimosys.org 
+- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at [www.kimosys.org](www.kimosys.org) 
 
-- ObjComparison. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at http://bit.ly/17QACEW 
+- ObjComparison. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at [http://bit.ly/17QACEW](http://bit.ly/17QACEW)
 
-- SON-EM. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at http://bit.ly/1DaGaVS 
+- SON-EM. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at [http://bit.ly/1DaGaVS](http://bit.ly/1DaGaVS) 
 
 ### Teaching Activities
 
