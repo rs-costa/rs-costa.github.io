@@ -8,7 +8,7 @@ and
 
 [CSI/IDMEC](http://www.idmec.ist.utl.pt/structure_center_intelligent_systems_research.php?page=research), [IST](https://www.tecnico.ulisboa.pt), Universidade Lisboa
 
-*email:* ![Image](prtsc.png)
+*e-mail:* ![Image](prtsc.png)
 
 
 
@@ -45,7 +45,7 @@ with the Public Administration sector (IPO-Porto hospital).
 
 **List of publications:**  [Google Scholar](https://www.scholar.google.com/citations?user=46oYvv0AAAAJ&hl=pt-PT) - [ORCID](http://orcid.org/0000-0002-7539-488X)
 
-### Recent Research Projects
+### Representative Research Projects
 
 •	[IPOscore](https://iposcore.wixsite.com/project/) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
 **If you are interested in doing your Master & PhD thesis or work with us on this project - just [Email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**.
@@ -74,4 +74,5 @@ with the Public Administration sector (IPO-Porto hospital).
 
 ---
 
-  &copy; R Costa 2019
+  &copy; R Costa 2019 <div><img src="/logos/all_logo.png" align="right"></div>
+  
