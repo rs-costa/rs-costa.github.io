@@ -70,12 +70,13 @@ with the Public Administration sector (IPO-Porto hospital).
 ### Teaching Activities
 
 **(coming soon...)**
-
-
+                                                                                                                                                                                                                                            
+                                                                                                                                                    
 ---
 
   &copy; R Costa 2019
   
-![](logos/all_logo.png)
-  
+
+<img scr="logos/all_logo.png" height="33" border="0" align="right">
+
   
