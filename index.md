@@ -75,5 +75,5 @@ with the Public Administration sector (IPO-Porto hospital).
 ---
 
   &copy; R Costa 2019 
-  <div><img src="/logos/all_logo.png" align="right"></div>
+  <div><img src="/logos/all_logo.png" width="200px" align="right"></div>
   
