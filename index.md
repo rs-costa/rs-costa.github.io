@@ -40,7 +40,7 @@ with the Public Administration sector (IPO-Porto hospital).
 
 > - Costa, R. S., Verissimo, A., Vinga, S. *KiMoSys: a web-based repository of experimental data for KInetic MOdels of biological Systems*. BMC Systems Biology (2014), 8:85, doi: [10.1186/s12918-014-0085-3](https://doi.org/10.1186/s12918-014-0085-3)
 
-> - Machado, D., Costa, R.S., Isabel Rocha, Bruce Tidor, E.C. Ferreira. *Exploring the gap between dynamic and constraint-based models of metabolism*. Metabolic Engineering 14 (2), 112-119 (2012), doi: [10.1016/j.ymben.2012.01.003](https://doi.org/10.1016/j.ymben.2012.01.003)
+> - Machado, D., Costa, R.S., Rocha, I., Tidor B., Ferreira, E.C. . *Exploring the gap between dynamic and constraint-based models of metabolism*. Metabolic Engineering 14 (2), 112-119 (2012), doi: [10.1016/j.ymben.2012.01.003](https://doi.org/10.1016/j.ymben.2012.01.003)
 
 **List of publications:**  [Google Scholar](https://www.scholar.google.com/citations?user=46oYvv0AAAAJ&hl=pt-PT) - [ORCID](http://orcid.org/0000-0002-7539-488X)
 
