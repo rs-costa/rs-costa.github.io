@@ -60,7 +60,7 @@ with the Public Administration sector (IPO-Porto hospital).
 
 ### Software & Tools
 
-- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at [www.kimosys.org](www.kimosys.org) 
+- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](http://www.kimosys.org) 
 
 - ObjComparison. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at [http://bit.ly/17QACEW](http://bit.ly/17QACEW)
 
