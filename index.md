@@ -25,7 +25,7 @@ modeling approaches including, ODE-based modeling, constraint-based modeling and
 with experimental groups. I also belong to a [consortium of researchers](http://www.bit.ly/1OsnTZr) interested in whole-cell 
 modelling using openly available softwares and standards. Finally, I am currently involving on the regular maintenance of 
 [*Ki*MoSys](https://www.kimosys.org), a web-based database for kinetic models. More recently, I  diversified my research
-activities and developed an interest in the [Systems Medicine](https://easym.eu/about-easym/what-is-systems-medicine/) field, with emphasis in systems engineering techniques (e.g. machine learning algorithms) for (bio-)clinical data analysis. Within this topic, I established a national collaboration 
+activities and developed an interest in the [Systems Medicine](https://easym.eu/about-easym/what-is-systems-medicine/) field, with emphasis in systems engineering techniques (such as machine learning algorithms) for (bio-)clinical data analysis. Within this topic, I established a national collaboration 
 with the Public Administration sector (IPO-Porto oncological hospital).
 
 **Key-terms of research:** Systems Biology modeling, constraint-based and kinetic metabolic modeling, optimization, metabolism, industrial biotechnology; computational Systems Medicine, Data Science, systems engineering, data-driven approaches, surgical risk prediction
