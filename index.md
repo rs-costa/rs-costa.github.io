@@ -2,7 +2,7 @@
 
 # R Costa
 
-[LAQV/Requimte](https://www.requimte.pt/laqv/), FCT-UNova
+[LAQV/Requimte](https://www.requimte.pt/laqv/), FCT-NOVA
 
 and
 
