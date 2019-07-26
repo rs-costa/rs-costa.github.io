@@ -9,7 +9,7 @@ and
 [CSI/IDMEC](http://www.idmec.ist.utl.pt/structure_center_intelligent_systems_research.php?page=research), [IST](https://www.tecnico.ulisboa.pt), Universidade Lisboa
 
 *e-mail:* ![Image](prtsc.png)
-
+Independent Researcher and Invited Assistant Professor
 
 
 ### Research Interests
@@ -60,11 +60,11 @@ with the Public Administration sector (IPO-Porto oncological hospital).
 
 ### Software & Tools
 
-- KiMoSys database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](http://www.kimosys.org) 
+- *KiMoSys* database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](http://www.kimosys.org) 
 
-- ObjComparison. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at [http://bit.ly/17QACEW](http://bit.ly/17QACEW)
+- *ObjComparison*. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at [http://bit.ly/17QACEW](http://bit.ly/17QACEW)
 
-- SON-EM. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at [http://bit.ly/1DaGaVS](http://bit.ly/1DaGaVS) 
+- *SON-EM*. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at [http://bit.ly/1DaGaVS](http://bit.ly/1DaGaVS) 
 
 ### Teaching Activities
 
