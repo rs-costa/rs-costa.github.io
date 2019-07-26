@@ -9,6 +9,7 @@ and
 [CSI/IDMEC](http://www.idmec.ist.utl.pt/structure_center_intelligent_systems_research.php?page=research), [IST](https://www.tecnico.ulisboa.pt), Universidade Lisboa
 
 *e-mail:* ![Image](prtsc.png)
+
 Independent Researcher and Invited Assistant Professor
 
 
