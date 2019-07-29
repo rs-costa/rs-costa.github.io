@@ -14,7 +14,7 @@ Independent Researcher and Invited Assistant Professor
 
 
 ### Research Interests
-In Metabolic Engineering, the task of identifying the modifications that will lead to microbial strains with high yields for 
+In [Metabolic Engineering](http://www.en.wikipedia.org/wiki/Metabolic_engineering), the task of identifying the modifications that will lead to microbial strains with high yields for 
 industrial production is a quite challenge one, requiring robust modelling approaches. Similarly to the biotech industry, 
 the computational modeling and prediction of complex diseases in a proactive/preventive patient-oriented context is also a hot
 topic of research.
