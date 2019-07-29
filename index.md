@@ -14,14 +14,14 @@ Independent Researcher and Invited Assistant Professor
 
 
 ### Research Interests
-In [Metabolic Engineering](http://www.en.wikipedia.org/wiki/Metabolic_engineering), the task of identifying the modifications that will lead to microbial strains with high yields for 
+In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the modifications that will lead to microbial strains with high yields for 
 industrial production is a quite challenge one, requiring robust modelling approaches. Similarly to the biotech industry, 
 the computational modeling and prediction of complex diseases in a proactive/preventive patient-oriented context is also a hot
 topic of research.
 
 The the main topic of my PhD was in metabolic modeling of biological systems and I am still working on this theme. Since my 
 PhD, I have been interested on the development and application of computational approaches, algorithms, models, and databases
-to Systems Biology, particularly for system level analysis of microbial metabolism. Towards this end, I employ different
+to [Systems Biology](https://systemsbiology.org/about/what-is-systems-biology/), particularly for system level analysis of microbial metabolism. Towards this end, I employ different
 modeling approaches including, ODE-based modeling, constraint-based modeling and hybrid approaches in close collaboration 
 with experimental groups. I also belong to a [consortium of researchers](http://www.bit.ly/1OsnTZr) interested in whole-cell 
 modelling using openly available softwares and standards. Finally, I am currently involving on the regular maintenance of 
