@@ -29,7 +29,7 @@ modelling using openly available softwares and standards. Finally, I am currentl
 activities and developed an interest in the [Systems Medicine](https://easym.eu/about-easym/what-is-systems-medicine/) field, with emphasis in systems engineering techniques (such as machine learning algorithms) for (bio-)clinical data analysis. Within this topic, I established a national collaboration 
 with the Public Administration sector (IPO-Porto oncological hospital).
 
-**Key-terms of research:** Systems Biology modeling, constraint-based and kinetic metabolic modeling, optimization, metabolism, industrial biotechnology; computational Systems Medicine, Data Science, systems engineering, data-driven approaches, surgical risk prediction
+**Key-terms of research:** Systems Biology modeling, constraint-based and kinetic metabolic modeling, optimization, metabolism, industrial biotechnology; computational Systems Medicine, Data Science, data-driven approaches, systems engineering, data management, surgical risk prediction
 
 ### Selected Publications
 
