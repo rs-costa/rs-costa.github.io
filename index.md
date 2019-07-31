@@ -19,7 +19,7 @@ industrial production is a quite challenge one, requiring robust modeling approa
 the computational modeling and prediction of complex diseases in a proactive/preventive patient-oriented context is also a hot
 topic of research.
 
-The the main topic of my PhD was in metabolic modeling of biological systems and I am still working on this theme. Since my 
+The main topic of my PhD was in metabolic modeling of biological systems and I am still working on this theme. Since my 
 PhD, I have been interested on the development and application of computational approaches, algorithms, models, and databases
 to [Systems Biology](https://systemsbiology.org/about/what-is-systems-biology/), particularly for system level analysis of microbial metabolism. Towards this end, I employ different
 modeling approaches including, ODE-based modeling, constraint-based modeling and hybrid approaches in close collaboration 
