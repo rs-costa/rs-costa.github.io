@@ -10,7 +10,7 @@ and
 
 *e-mail:* ![Image](prtsc.png)
 
-Independent Researcher and Invited Assistant Professor
+Assistant Researcher and Invited Assistant Professor
 
 
 ### Research Interests
