@@ -15,7 +15,7 @@ Assistant Researcher and Invited Assistant Professor
 
 ### Research Interests
 In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the key modifications that will lead to microbial strains with high yields/titers for 
-industrial production is a quite challenge one, requiring robust modeling approaches. Similarly to the biotech industry, 
+industrial production (e.g., to substitute petroleum-derived by bio-based compounds) is a quite challenge one, requiring robust modeling approaches. Similarly to the biotech industry, 
 the computational modeling and prediction of complex diseases in a proactive/preventive patient-oriented context is also a hot
 topic of research.
 
