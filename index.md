@@ -1,4 +1,3 @@
-**(under construction...)**
 
 # R Costa
 
@@ -14,7 +13,7 @@ Assistant Researcher and Invited Assistant Professor
 
 
 ### Research Interests
-In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the key modifications that will lead to microbial strains with high yields/titers for 
+In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the key modifications that will lead to microbial strains with high yield/titer for 
 industrial production (e.g., to substitute petroleum-derived by bio-based compounds) is a quite challenge one, requiring robust modeling approaches. Similarly to the biotech industry, 
 the computational modeling and prediction of complex diseases in a proactive/preventive patient-oriented context is also a hot
 topic of research.
@@ -33,7 +32,7 @@ with IPO-Porto Hospital.
 
 ### Selected Publications
 
-> - Dagmar Waltemath, Jonathan R. Karr, Frank T. Bergmann, Vijayalakshmi Chelliah, Michael Hucka, Marcus Krantz, Wolfram Liebermeister, Pedro Mendes, Chris J. Myers, Pinar Pir, Begum Alaybeyoglu, Naveen K Aranganathan, Kambiz Baghalian, Arne T. Bittig, Paulo E. Pinto Burke, Matteo Cantarelli, Yin Hoon Chew, Rafael S. Costa, et al. *Toward community standards and software for whole-cell modeling*. IEEE Transactions on Biomedical Engineering, 63 (10), 2007-2014, (2016), doi: [10.1109/TBME.2016.2560762](https://www.doi.org/10.1109/TBME.2016.2560762)
+> - Waltemath, D.,  Karr, J.R., Bergmann, F., Chelliah, V., Hucka, M., Krantz, M., Liebermeister, W., Mendes, P., Myers, C.J., Pir, P., Alaybeyoglu, B., Aranganathan, N.K., Baghalian, K, Bittig, A.T., Burke, P.E., Cantarelli, M., Chew, Y.H., Costa, R.S. et al. *Toward community standards and software for whole-cell modeling*. IEEE Transactions on Biomedical Engineering, 63 (10), 2007-2014, (2016), doi: [10.1109/TBME.2016.2560762](https://www.doi.org/10.1109/TBME.2016.2560762)
 
 > - Hartmann, A., Lemos, J.M., Costa, R. S., and Vinga, S. *Identifying IIR Filter Coefficients using Particle Swarm Optimization with Application to Reconstruction of Missing Cardiovascular Signals*. Engineering Applications of Artificial Intelligence. 34, 193-198, (2014), doi: [10.1016/j.engappai.2014.05.014](https://doi.org/10.1016/j.engappai.2014.05.014)
 
