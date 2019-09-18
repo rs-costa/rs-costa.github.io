@@ -68,7 +68,7 @@ with IPO-Porto Hospital.
 
 ### Teaching Activities
 
-**(coming soon...)**
+**(to be listed soon...)**
                                                                                                                                                                                                                                             
                                                                                                                                                     
 ---
