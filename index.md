@@ -9,8 +9,6 @@ and
 
 *e-mail:* ![Image](prtsc.png)
 
-Assistant Researcher and Invited Assistant Professor
-
 
 ### Research Interests
 In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the key modifications that will lead to microbial strains with high yield/titer for 
