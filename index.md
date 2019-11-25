@@ -65,7 +65,7 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 ### Recent Teaching Activities
 
-2018-present | Modeling of Biological Processes (Fall semester),    2018-present | Guest lecturer, Metabolic and Cellular Engineering (Fall semester),    2019-present | Metabolism and Regulation (Spring semester)                                                                                                                                                                                                                                          
+[2018-present] – Modeling of Biological Processes (Fall semester);    [2018-present] – Guest lecturer, Metabolic and Cellular Engineering (Fall semester),    [2019-present] – Metabolism and Regulation (Spring semester)                                                                                                                                                                                                                                          
                                                                                                                                                     
 ---
 
