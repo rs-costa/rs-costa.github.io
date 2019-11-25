@@ -63,10 +63,11 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 - *SON-EM*. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at [http://bit.ly/1DaGaVS](http://bit.ly/1DaGaVS) 
 
-### Teaching Activities
+### Recent Teaching Activities
 
-**(to be listed soon...)**
-                                                                                                                                                                                                                                            
+2018-present | Modeling of Biological Processes 
+2018-present | Guest lecturer, Metabolic and Cellular Engineering
+2019-present | Metabolism and Regulation                                                                                                                                                                                                                                          
                                                                                                                                                     
 ---
 
