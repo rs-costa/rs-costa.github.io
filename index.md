@@ -29,13 +29,15 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 ### Selected Publications
 
+> - Fernandes, A., Rodrigues, J., Lages, P., Lança, S., Mendes, P., Antunes, L. Santos, C. S., Castro, C., Costa, R.S., Lopes, C.S., da Costa, P. M., and Lara, L. *SantosRoot causes and outcomes of postoperative pulmonary complications after abdominal surgery: a retrospective observational cohort study*. Patient Safety in Surgery, 13:40, (2019) doi: [10.1186/s13037-019-0221-5](https://pssjournal.biomedcentral.com/articles/10.1186/s13037-019-0221-5)
+
 > - Waltemath, D.,  Karr, J.R., Bergmann, F., Chelliah, V., Hucka, M., Krantz, M., Liebermeister, W., Mendes, P., Myers, C.J., Pir, P., Alaybeyoglu, B., Aranganathan, N.K., Baghalian, K, Bittig, A.T., Burke, P.E., Cantarelli, M., Chew, Y.H., Costa, R.S. et al. *Toward community standards and software for whole-cell modeling*. IEEE Transactions on Biomedical Engineering, 63 (10), 2007-2014, (2016), doi: [10.1109/TBME.2016.2560762](https://www.doi.org/10.1109/TBME.2016.2560762)
 
 > - Hartmann, A., Lemos, J.M., Costa, R. S., and Vinga, S. *Identifying IIR Filter Coefficients using Particle Swarm Optimization with Application to Reconstruction of Missing Cardiovascular Signals*. Engineering Applications of Artificial Intelligence. 34, 193-198, (2014), doi: [10.1016/j.engappai.2014.05.014](https://doi.org/10.1016/j.engappai.2014.05.014)
 
 > - Costa, R. S., Hartmann, A., Gaspar, P., Neves, A. R. and Vinga, S. *An extended dynamic model of Lactococcus lactis metabolism for mannitol and 2,3-butanediol production*. Molecular BioSystems 10, 628-639 (2014), doi: [C3MB70265K](https://doi.org/10.1039/C3MB70265K)
 
-> - Costa, R. S., Verissimo, A., Vinga, S. *KiMoSys: a web-based repository of experimental data for KInetic MOdels of biological Systems*. BMC Systems Biology (2014), 8:85, doi: [10.1186/s12918-014-0085-3](https://doi.org/10.1186/s12918-014-0085-3)
+> - Costa, R. S., Verissimo, A., Vinga, S. *KiMoSys: a web-based repository of experimental data for KInetic MOdels of biological Systems*. BMC Systems Biology, 8:85, (2014) doi: [10.1186/s12918-014-0085-3](https://doi.org/10.1186/s12918-014-0085-3)
 
 > - Machado, D., Costa, R.S., Rocha, I., Tidor B., Ferreira, E.C. . *Exploring the gap between dynamic and constraint-based models of metabolism*. Metabolic Engineering 14 (2), 112-119 (2012), doi: [10.1016/j.ymben.2012.01.003](https://doi.org/10.1016/j.ymben.2012.01.003)
 
