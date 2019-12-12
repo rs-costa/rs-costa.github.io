@@ -11,6 +11,8 @@ and
 
 
 ### Research Interests
+                              Computational Solutions to guide Biotechnology and Clinical Medicine
+
 In [Metabolic Engineering](https://www.nature.com/subjects/metabolic-engineering), the task of identifying the key modifications that will lead to microbial strains with high yield/titer for 
 industrial production (e.g., to substitute petroleum-derived by bio-based compounds) is a quite challenge one, requiring robust computational approaches. Similarly to the biotech industry, 
 the computational modeling of complex diseases and for healthcare applications in a proactive/preventive patient-oriented context is also a hot
