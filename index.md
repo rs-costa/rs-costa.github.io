@@ -1,7 +1,7 @@
 
 # R Costa
 
-[LAQV/Requimte](https://www.requimte.pt/laqv/), FCT-NOVA
+[LAQV/Requimte](https://www.requimte.pt/laqv/), FCT-NOVA University Lisbon
 
 and
 
