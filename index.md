@@ -31,6 +31,8 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 ### Selected Publications
 
+> - Fernandes, A., Rodrigues, J., Antunes, L., Lages, P., Santos, C., Moreirs-Gonçalves, D.,  Costa, R.S., Sousa, J.A., Dinis-Ribeiro, M., Santos, L.L. *DEVELOPMENT OF A PREOPERATIVE RISK SCORE ON ADMISSION IN SURGICAL INTERMEDIATE CARE UNIT IN GASTROINTESTINAL CANCER SURGERY*. Perioperative Medicine (accepted)
+ 
 > - Fernandes, A., Rodrigues, J., Lages, P., Lança, S., Mendes, P., Antunes, L. Santos, C. S., Castro, C., Costa, R.S., Lopes, C.S., da Costa, P. M., and Santos, L. L. *Root causes and outcomes of postoperative pulmonary complications after abdominal surgery: a retrospective observational cohort study*. Patient Safety in Surgery, 13:40, (2019) doi: [10.1186/s13037-019-0221-5](https://pssjournal.biomedcentral.com/articles/10.1186/s13037-019-0221-5)
 
 > - Waltemath, D.,  Karr, J.R., Bergmann, F., Chelliah, V., Hucka, M., Krantz, M., Liebermeister, W., Mendes, P., Myers, C.J., Pir, P., Alaybeyoglu, B., Aranganathan, N.K., Baghalian, K, Bittig, A.T., Burke, P.E., Cantarelli, M., Chew, Y.H., Costa, R.S. et al. *Toward community standards and software for whole-cell modeling*. IEEE Transactions on Biomedical Engineering, 63 (10), 2007-2014, (2016), doi: [10.1109/TBME.2016.2560762](https://www.doi.org/10.1109/TBME.2016.2560762)
