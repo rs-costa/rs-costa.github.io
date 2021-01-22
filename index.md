@@ -71,7 +71,7 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 ### Supervision
 
 PhD Thesis IN PROGRESS </p>
-João Antunes, <i>A novel symbolic framework for Hybrid Artificial Intelligence/Physical modeling of biological systems</i>. Co-supervised by Rui Oliveira.</p>
+João Antunes, <i>A novel symbolic framework for Hybrid Artificial Intelligence/Physical modeling of biological systems</i>. Co-supervised by Rui Oliveira.
 Leonardo Alexandre ID 94054, working in pattern recognition and ML for precision medicine, co-supervised by Rui Henriques.
 
 MSc Thesis IN PROGRESS</p>
