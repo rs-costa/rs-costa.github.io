@@ -57,7 +57,7 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 ### Software & Tools
 
-- *score4Covid*. A clinical decision support system for Covid-19 to anticipate medical needs and infection outcomes using demographic and comorbidity variables, as well as onset date of symptoms, test and hospitalization. Available at [COVIDscore](https://github.com/Andrempp/COVID_Calculator)
+- *score4Covid*. A clinical decision support system for Covid-19 to anticipate medical needs and infection outcomes using demographic and comorbidity variables, as well as onset date of symptoms, test and hospitalization. Available at [COVID-19 application](https://github.com/Andrempp/COVID_Calculator)
 
 - *DI2 tool*. A python package that uses non-parametric tests to find the best fitting distribution for a given variable and discretize it accordingly. Available at [DI2](https://github.com/JupitersMight/DI2)
 
@@ -68,28 +68,28 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 - *SON-EM*. An algorithm for hybrid system identification of Switched affine AutoRegressive model with eXogenous inputs (SARX) models using Sum of Norms regularization and Expectation Maximization. Available at [http://bit.ly/1DaGaVS](http://bit.ly/1DaGaVS) 
 
 
-### Supervision
+### Supervisions
 
 PhD Thesis IN PROGRESS <br />
-João Antunes, *A novel symbolic framework for Hybrid Artificial Intelligence/Physical modeling of biological systems*. Co-supervised by Rui Oliveira.<br />
-Leonardo Alexandre ID 94054, working in pattern recognition and ML for precision medicine, co-supervised by Rui Henriques.<br />
+João Antunes, *A novel symbolic framework for Hybrid Artificial Intelligence/Physical modeling of biological systems*. Co-supervised with Rui Oliveira.<br />
+Leonardo Alexandre ID 94054, working in pattern recognition and ML for precision medicine. Co-supervised with Rui Henriques.<br />
 
 MSc Thesis IN PROGRESS <br />
-Joao Martins ID 44644, *Development of a collaborative web platform for oncologists in Portugal*. Co-supervised by Pedro Barahona.<br />
-André Miranda ID 84205, *Fuzzy logic-based modeling for Postoperative Complications Prediction in oncology patients: a Portuguese case study*. Co-supervised by Duarte Valério.<br />
-Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised by Duarte Valério.<br />
-André Patrício ID 87631, *Differential regulatory response of Hodgkin's lymphoma according to PET result*. Co-supervised by Rui Henriques.<br />
+Joao Martins ID 44644, *Development of a collaborative web platform for oncologists in Portugal*. Co-supervised with Pedro Barahona.<br />
+André Miranda ID 84205, *Fuzzy logic-based modeling for Postoperative Complications Prediction in oncology patients: a Portuguese case study*. Co-supervised with Duarte Valério.<br />
+Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério.<br />
+André Patrício ID 87631, *Differential regulatory response of Hodgkin's lymphoma according to PET result*. Co-supervised with Rui Henriques.<br />
 Pedro Rodrigues ID 87696, *Regulatory response to infection by SARS-CoV-2*. Co-supervised by Rui Henriques.<br />
 
-MSc Thesis FINISHED</p>
-Bruno Costa, *Utilização de mutantes de Escherichia coli com vista ao melhoramento do processo de produção de proteinas recombinantes*. Co-supervised by Isabel Rocha and Lucília Domingues.<br />
+MSc Thesis FINISHED <br />
+Bruno Costa, *Utilização de mutantes de Escherichia coli com vista ao melhoramento do processo de produção de proteinas recombinantes*. Co-supervised with Isabel Rocha and Lucília Domingues.<br />
 Bhabufk Koirala ID 177158, *Dynamic modeling and control of the main metabolism in Lactococcus lactis*. Co-supervised by Isabel Sá-Correia.<br />
-Son Hoang Nguyen ID 177533, *Exploring optimal objective functions and additional constraints for flux prediction in cellular metabolic networks*. Co-supervised by Isabel Sá-Correia.<br />
-Cíntia Santos, *In silico culture media customization for Human Embryonic Kidney 293 Cells*. Co-supervised by Rui Oliveira.<br />
-Dinis Madeira, *Development of a toolbox for in silico experiment free culture media design based on prior metabolic knowledge*. Co-supervised by Rui Oliveira.<br />
-Daniel Gonçalves ID 94007, *Clinical prognosis and risk prediction of postoperative complications in cancer patients*. Co-supervised by Rui Henriques.<br />
-Leonardo Alexandre ID 94054, *Discovery of discriminative patterns in oncological data to better understand surgical risk factors*. Co-supervised by Rui Henriques.<br />
-Hugo Mochão ID 47231, *Improvement of KiMoSys framework for kinetic modeling*. Co-supervised by Pedro Barahona.<br />
+Son Hoang Nguyen ID 177533, *Exploring optimal objective functions and additional constraints for flux prediction in cellular metabolic networks*. Co-supervised with Isabel Sá-Correia.<br />
+Cíntia Santos, *In silico culture media customization for Human Embryonic Kidney 293 Cells*. Co-supervised with Rui Oliveira.<br />
+Dinis Madeira, *Development of a toolbox for in silico experiment free culture media design based on prior metabolic knowledge*. Co-supervised with Rui Oliveira.<br />
+Daniel Gonçalves ID 94007, *Clinical prognosis and risk prediction of postoperative complications in cancer patients*. Co-supervised with Rui Henriques.<br />
+Leonardo Alexandre ID 94054, *Discovery of discriminative patterns in oncological data to better understand surgical risk factors*. Co-supervised with Rui Henriques.<br />
+Hugo Mochão ID 47231, *Improvement of KiMoSys framework for kinetic modeling*. Co-supervised with Pedro Barahona.<br />
 
 Visiting Researchers <br />
 Juliana Rezende, *Genomic scale metabolic network reconstruction and improvement of polyhydroxyalkanoates production in Pseudomonas SP. (LFM046)*. Supervisor:  R Costa.<br />
