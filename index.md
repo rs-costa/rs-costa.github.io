@@ -11,6 +11,7 @@ and
 
 *e-mail:* ![Image](prtsc.png)
 
+**Short Bio:** Rafael Costa is currently an Assistant Researcher at FCT-NOVA and a collaborator at Center of Intelligent Systems, IST-UL. He is also an invited Assistant Professor. His research interests include systems biology modeling and data science, particularly focusing on applications to the biotechnology and healthcare.
 
 ### Research Interests
 
@@ -44,7 +45,7 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 ### Representative Research Projects
 
 •	[IPOscore](https://bit.ly/2AjgoHz) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration (DSAIPA/DS/0042/2018), Role: Principal Investigator. (ongoing)       
-**If you are interested in doing your Master & PhD thesis or work with us on this project - just [Email](mailto:rafael.s.costa@tecnico.ulisboa.pt) me!**
+**If you are interested in doing your Master & PhD thesis or work with us on this project - just [Email](mailto:rs.costa@fct.unl.pt) me!**
 
 •	[TTRaFFIC](http://bit.ly/2YdKZwI) – Toxicity and TRansport For Fungal production of Industrial Compounds (ERA-IB-2-6/0003/2014), Role: Team member, PI: Nuno Mira. (ongoing)
 
