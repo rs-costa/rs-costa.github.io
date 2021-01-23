@@ -11,7 +11,7 @@ and
 
 *e-mail:* ![Image](prtsc.png)
 
-**Short Bio:** Rafael Costa is currently an Assistant Researcher at FCT-NOVA and a collaborator at Center of Intelligent Systems, IST-UL. He is also an invited assistant professor. His research interests include systems biology modeling and data science, particularly focusing on applications to the biotechnology and healthcare.
+**Short Bio:** Rafael Costa is currently an Assistant Researcher at FCT-NOVA and a collaborator at Center of Intelligent Systems, IST-UL. He is also an invited assistant professor. His research interests include systems biology modeling and data science with application in biotechnology and medicine.
 
 ### Research Interests
 
