@@ -6,7 +6,7 @@ LAQV,
 
 and
 
-[Center of Intelligent Systems](http://www.idmec.ist.utl.pt/structure_center_intelligent_systems_research.php?page=research), 
+[Center of Intelligent Systems](https://www.idmec.tecnico.ulisboa.pt/research-groups/intelligent-systems/structure/), 
 [IST](https://www.tecnico.ulisboa.pt), Universidade Lisboa
 
 *e-mail:* ![Image](prtsc.png)
