@@ -28,7 +28,9 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 
 ### Selected Publications
 
-> - Mochao, H., Barahona, P., Costa, R.S. *KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling*. Database-The journal of biological database & curation, 2020, (2020) doi: [10.1093/database/baaa093](https://doi.org/10.1093/database/baaa093)
+> - Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, (2021), doi: [soon available]
+
+> - Mochao, H., Barahona, P., Costa, R.S. *KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling*. Database-The journal of biological database & curation, 2020, (2020), doi: [10.1093/database/baaa093](https://doi.org/10.1093/database/baaa093)
 
 > - Fernandes, A., Rodrigues, J., Antunes, L., Lages, P., Santos, C., Moreirs-Gonçalves, D.,  Costa, R.S., Sousa, J.A., Dinis-Ribeiro, M., Santos, L.L. *Development of a Preoperative Risk Score on Admission in Surgical Intermediate Care Unit in Gastrointestinal Cancer Surgery*. Perioperative Medicine, 9:23, (2020), doi: [10.1186/s13741-020-00151](https://doi.org/10.1186/s13741-020-00151-7)
  
