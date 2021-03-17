@@ -22,13 +22,13 @@ modeling approaches including, ODE-based modeling, constraint-based modeling and
 with experimental groups. I also belong to a [consortium of researchers](http://www.bit.ly/1OsnTZr) interested in whole-cell 
 modelling using openly available softwares and standards. Finally, I am currently involving on the regular maintenance of 
 [*Ki*MoSys](https://www.kimosys.org), a web-based data repository for quantitative kinetic models. More recently, I  diversified my research
-activities and developed an interest in the [Systems Medicine](https://easym.eu/about-easym/what-is-systems-medicine/) field, with emphasis in systems engineering techniques (such as machine learning algorithms and medical [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
+activities and developed an interest in the [Systems Medicine](https://www.nature.com/articles/emm2017290) field, with emphasis in systems engineering techniques (such as machine learning algorithms and medical [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
 
 **Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, Systems Clinical Medicine, healthcare informatics, Data Science, data-driven approaches, data management, clinical risk prediction
 
 ### Selected Publications
 
-> - Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, (2021), ACCEPTED, doi: [10.1109/JBHI.2021.3064786](https://doi.org/10.1109/JBHI.2021.3064786)
+> - Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, (2021), doi: [10.1109/JBHI.2021.3064786](https://doi.org/10.1109/JBHI.2021.3064786)
 
 > - Mochao, H., Barahona, P., Costa, R.S. *KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling*. Database-The journal of biological database & curation, 2020, (2020), doi: [10.1093/database/baaa093](https://doi.org/10.1093/database/baaa093)
 
@@ -45,6 +45,8 @@ activities and developed an interest in the [Systems Medicine](https://easym.eu/
 **Full list of publications:**  [Google Scholar](https://scholar.google.com/citations?user=46oYvv0AAAAJ&hl=pt-PT) - [ORCID](http://orcid.org/0000-0002-7539-488X)
 
 ### Representative Research Projects
+
+•	PROMICON – HARNESSING THE POWER OF NATURE THROUGH PRODUCTIVE MICROBIAL CONSORTIA IN BIOTECHNOLOGY: MEASURE, MODEL, MASTER (H2020).
 
 •	[IPOscore](https://bit.ly/2AjgoHz) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration, Role: Principal Investigator. (ongoing)       
 
