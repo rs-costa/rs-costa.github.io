@@ -24,9 +24,11 @@ modelling using openly available softwares and standards. Finally, I am currentl
 [*Ki*MoSys](https://www.kimosys.org), a web-based data repository for quantitative kinetic models. More recently, I  diversified my research
 activities and developed an interest in the [Systems Medicine](https://www.nature.com/articles/emm2017290) field, with emphasis in systems engineering techniques (such as machine learning algorithms and medical [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
 
-**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, Systems Clinical Medicine, healthcare informatics, Data Science, data-driven approaches, data management, clinical risk prediction
+**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, systems clinical medicine, healthcare informatics, data science, data-driven approaches, data management, clinical risk prediction
 
 ### Selected Publications
+
+> - Patricio, A., Costa, R.S. and Henriques, R. *COVID-19 in Portugal: predictability of hospitalization, ICU and respiratory-assistance needs*. Journal of Medical Internet Research,  in press, (2021), doi: [10.2196/26075](http://dx.doi.org/10.2196/26075)
 
 > - Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, (2021), doi: [10.1109/JBHI.2021.3064786](https://doi.org/10.1109/JBHI.2021.3064786)
 
@@ -46,7 +48,7 @@ activities and developed an interest in the [Systems Medicine](https://www.natur
 
 ### Representative Research Projects
 
-•	PROMICON – HARNESSING THE POWER OF NATURE THROUGH PRODUCTIVE MICROBIAL CONSORTIA IN BIOTECHNOLOGY: MEASURE, MODEL, MASTER (H2020).
+•	PROMICON – HARNESSING THE POWER OF NATURE THROUGH PRODUCTIVE MICROBIAL CONSORTIA IN BIOTECHNOLOGY: MEASURE, MODEL, MASTER (H2020), Coordinator: Jens Kromer.
 
 •	[IPOscore](https://bit.ly/2AjgoHz) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration, Role: Principal Investigator. (ongoing)       
 
