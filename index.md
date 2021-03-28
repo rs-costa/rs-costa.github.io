@@ -22,9 +22,9 @@ modeling approaches including, ODE-based modeling, constraint-based modeling and
 with experimental groups. I also belong to a [consortium of researchers](http://www.bit.ly/1OsnTZr) interested in whole-cell 
 modelling using openly available softwares and standards. Finally, I am currently involving on the regular maintenance of 
 [*Ki*MoSys](https://www.kimosys.org), a web-based data repository for quantitative kinetic models. More recently, I  diversified my research
-activities and developed an interest in the [Systems Medicine](https://www.nature.com/articles/emm2017290) field, with emphasis in systems engineering techniques (such as machine learning algorithms and medical [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
+activities and developed an interest in the [Systems Medicine](https://www.nature.com/articles/emm2017290) field, with emphasis in systems engineering techniques (such as machine learning algorithms, statistical methods and medical [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
 
-**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, systems clinical medicine, healthcare informatics, data science, data-driven approaches, data management, clinical risk prediction
+**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, systems clinical medicine, healthcare informatics, data science, data-driven approaches, data management, clinical risk prediction, bioinformatics
 
 ### Selected Publications
 
