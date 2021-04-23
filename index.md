@@ -28,7 +28,7 @@ activities and developed an interest in the [Systems Medicine](https://www.natur
 
 ### Selected Publications
 
-> - Patricio, A., Costa, R.S. and Henriques, R. *COVID-19 in Portugal: predictability of hospitalization, ICU and respiratory-assistance needs*. Journal of Medical Internet Research,  in press, (2021), doi: [10.2196/26075](http://dx.doi.org/10.2196/26075)
+> - Patricio, A., Costa, R.S. and Henriques, R. *Predictability of COVID-19 Hospitalizations, Intensive Care Unit Admissions, and Respiratory Assistance in Portugal: Longitudinal Cohort Study*. Journal of Medical Internet Research, in press, 23(4):e26075, (2021), doi: [10.2196/26075](http://dx.doi.org/10.2196/26075)
 
 > - Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, (2021), doi: [10.1109/JBHI.2021.3064786](https://doi.org/10.1109/JBHI.2021.3064786)
 
