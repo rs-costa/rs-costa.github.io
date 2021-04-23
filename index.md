@@ -14,7 +14,8 @@ and
 **Short Bio:** Rafael Costa is currently an Assistant Researcher at FCT-NOVA and a collaborator at Center of Intelligent Systems, IST-UL. He is also an invited assistant professor. His research focuses on systems biology modeling and data science with application in biotechnology and medicine.
 
 ### Research Interests
-                                           Computational Solutions to guide Biotechnology and Medicine
+Computational Solutions to guide Biotechnology and Medicine
+
 The main topic of my PhD was in metabolic modeling, control and optimization of biological systems and I am still working on this theme. Since my 
 PhD, I have been interested on the development and application of computational approaches, algorithms, models, and databases
 to [Systems Biology](https://systemsbiology.org/about/what-is-systems-biology/), particularly for system level analysis of microbial metabolism. Towards this end, I employ different
