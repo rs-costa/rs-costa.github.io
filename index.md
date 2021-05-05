@@ -49,7 +49,7 @@ activities and developed an interest in the [Systems Medicine](https://www.natur
 
 ### Representative Research Projects
 
-•	PROMICON – HARNESSING THE POWER OF NATURE THROUGH PRODUCTIVE MICROBIAL CONSORTIA IN BIOTECHNOLOGY: MEASURE, MODEL, MASTER (H2020), Coordinator: Jens Kromer.
+•	PROMICON – Harnessing the power of Nature through productive microbial consortia in biotechnology – measure, model, master (H2020-FNR-12-2020), Coordinator: Jens Kromer.
 
 •	[IPOscore](https://bit.ly/2AjgoHz) – Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration, Role: Principal Investigator. (ongoing)       
 
