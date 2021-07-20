@@ -25,7 +25,7 @@ modelling using openly available softwares and standards. Finally, I am currentl
 [*Ki*MoSys](https://www.kimosys.org), a web-based data repository for quantitative kinetic models. More recently, I  diversified my research
 activities and developed an interest in the [Systems Medicine](https://www.nature.com/articles/emm2017290) field, with emphasis in systems engineering techniques (such as machine learning algorithms, statistical methods and [decision support systems](http://vimeo.com/241154708)) for (bio-)clinical data analysis.
 
-**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, systems clinical medicine, healthcare informatics, data science, data-driven approaches, data management, clinical risk prediction, bioinformatics
+**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, health systems engineering, healthcare informatics, data management, bioinformatics, data science
 
 ### Selected Publications
 
@@ -79,13 +79,12 @@ activities and developed an interest in the [Systems Medicine](https://www.natur
 
 PhD Thesis IN PROGRESS <br />
 João Antunes ID 59329, *A novel symbolic framework for Hybrid Artificial Intelligence/Physical modeling of biological systems*. Co-supervised with Rui Oliveira.<br />
-Leonardo Alexandre ID 94054, *Learning prognostic biomarkers from three-dimensional biomedical data of psychiatric disorders*.<br />
+Leonardo Alexandre ID 94054, *Learning prognostic biomarkers from three-dimensional biomedical data of psychiatric disorders*. Co-supervised with Rui Henriques.<br />
 
 MSc Thesis IN PROGRESS <br />
 Joao Martins ID 44644, *Development of a collaborative web platform for oncologists in Portugal*. Co-supervised with Pedro Barahona.<br />
 André Miranda ID 84205, *Fuzzy logic-based modeling for Postoperative Complications Prediction in oncology patients: a Portuguese case study*. Co-supervised with Duarte Valério.<br />
 Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério.<br />
-André Patrício ID 87631, *Differential regulatory response of Hodgkin's lymphoma according to PET result*. Co-supervised with Rui Henriques.<br />
 Pedro Rodrigues ID 87696, *Regulatory response to infection by SARS-CoV-2*. Co-supervised by Rui Henriques.<br />
 
 MSc Thesis FINISHED <br />
@@ -97,6 +96,7 @@ Dinis Madeira, *Development of a toolbox for in silico experiment free culture m
 Daniel Gonçalves ID 94007, *Clinical prognosis and risk prediction of postoperative complications in cancer patients*. Co-supervised with Rui Henriques.<br />
 Leonardo Alexandre ID 94054, *Discovery of discriminative patterns in oncological data to better understand surgical risk factors*. Co-supervised with Rui Henriques.<br />
 Hugo Mochão ID 47231, *Improvement of KiMoSys framework for kinetic modeling*. Co-supervised with Pedro Barahona.<br />
+André Patrício ID 87631, *Differential regulatory response of Hodgkin's lymphoma according to PET result*. Co-supervised with Rui Henriques.<br />
 
 Visiting Researchers <br />
 Juliana Rezende, *Genomic scale metabolic network reconstruction and improvement of polyhydroxyalkanoates production in Pseudomonas SP. (LFM046)*. Supervisor:  R Costa.<br />
